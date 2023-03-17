@@ -1,0 +1,9 @@
+C:\Users\FUJITSU\Desktop\DatabaseAcess\obj\Debug\netcoreapp3.1\DatabaseAcess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FUJITSU\Desktop\DatabaseAcess\obj\Debug\netcoreapp3.1\DatabaseAcess.AssemblyInfoInputs.cache
+C:\Users\FUJITSU\Desktop\DatabaseAcess\obj\Debug\netcoreapp3.1\DatabaseAcess.AssemblyInfo.cs
+C:\Users\FUJITSU\Desktop\DatabaseAcess\obj\Debug\netcoreapp3.1\DatabaseAcess.csproj.CoreCompileInputs.cache
+C:\Users\FUJITSU\Desktop\DatabaseAcess\bin\Debug\netcoreapp3.1\DatabaseAcess.deps.json
+C:\Users\FUJITSU\Desktop\DatabaseAcess\bin\Debug\netcoreapp3.1\DatabaseAcess.dll
+C:\Users\FUJITSU\Desktop\DatabaseAcess\bin\Debug\netcoreapp3.1\DatabaseAcess.pdb
+C:\Users\FUJITSU\Desktop\DatabaseAcess\obj\Debug\netcoreapp3.1\DatabaseAcess.dll
+C:\Users\FUJITSU\Desktop\DatabaseAcess\obj\Debug\netcoreapp3.1\DatabaseAcess.pdb
